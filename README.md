@@ -14,3 +14,7 @@ Stripped down version of [original Klipper firmware](https://github.com/KevinOCo
 # Added:
 - conventional RPC based on single byte commands (see protocol.h)
 - temporary Makefile (to be removed after integration to klipper-ng)
+
+# Status:
+
+It builds. Never tested. No python counterpart existing.
