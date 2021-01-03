@@ -1,5 +1,5 @@
 # klipper-firmware-ng
-Stripped down version of original Klipper firmware, to prepare merge in klipper-ng
+Stripped down version of [original Klipper firmware](https://github.com/KevinOConnor/klipper), to prepare merge in [klipper-ng](https://github.com/mfp20/klipper-ng)
 
 # Removed:
 - all boards except linux and avr (to be re-added after performance tests)
